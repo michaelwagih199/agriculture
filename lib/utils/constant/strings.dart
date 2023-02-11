@@ -1,10 +1,9 @@
 const HOME_ROUTE = "/home";
-const LOGIN_ROUTE = "/";
+const LOGIN_ROUTE = "/admin";
 const ABOUT_APP_ROUTE = "/aboutApp";
-const ATTENDANCE_ROUTE = "/signiIn";
+const CLOUD_FUNCTIONS_ROUT = "/cloudFunctionsRout";
 const ATTENDANCE_REPORT_ROUT = "/attendanceReport";
-const ADMIN_ROUTE = "/admin";
-const ADD_LOCATION_ROUTE = "/addLocation";
+const ADMIN_ROUTE = "/";
 
 // images asset
 const IMAGE_BACK_PATTERN = "assets/images/back_pattern.png";

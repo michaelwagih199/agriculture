@@ -12,7 +12,7 @@ ThemeData appTheme() {
       // This will be applied to the action icon buttons that locates on the right side
       actionsIconTheme: IconThemeData(color: Colors.amber),
       centerTitle: false,
-      titleTextStyle: TextStyle(color: Color.fromRGBO(246, 246, 246, 1)),
+      titleTextStyle: TextStyle(color: Color.fromRGBO(246, 246, 246, 1),fontSize:22.0),
     ),
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ElevatedButton.styleFrom(

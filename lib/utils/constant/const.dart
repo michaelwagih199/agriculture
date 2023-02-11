@@ -1,6 +1,6 @@
-String dropdownvalue = 'اخنر محافظة';
+String DROP_DOWN_VALUE = 'اخنر محافظة';
 
-const GOVERNORATES = [
+var GOVERNORATES = [
   'المحافظات',
   ' القاهرة.',
   'الجيزة.',
@@ -29,5 +29,5 @@ const GOVERNORATES = [
   'الأقصر',
   'أسوان',
   'الواحات',
-  ' الوادي الجديد'
+  'الوادي الجديد'
 ];
